@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>NovaFans - Agence OnlyFans</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #f7f8fa;
+      color: #333;
+    }
+    header {
+      background: linear-gradient(90deg, #6f42c1, #b37cff);
+      padding: 2rem;
+      text-align: center;
+      color: white;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.5rem;
+    }
+    header p {
+      margin-top: 0.5rem;
+      font-size: 1.2rem;
+    }
+    section {
+      padding: 3rem 1rem;
+      max-width: 900px;
+      margin: auto;
+    }
+    h2 {
+      color: #6f42c1;
+      text-align: center;
+      margin-bottom: 1rem;
+    }
+    .services {
+      display: grid;
+      gap: 1.5rem;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    }
+    .card {
+      background: white;
+      border-radius: 12px;
+      padding: 1.5rem;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+    }
+    .contact {
+      text-align: center;
+      margin-top: 2rem;
+    }
+    .email {
+      color: #6f42c1;
+      font-weight: bold;
+      text-decoration: none;
+    }
+    footer {
+      background-color: #eee;
+      text-align: center;
+      padding: 1rem;
+      font-size: 0.9rem;
+      color: #555;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>NovaFans</h1>
+  <p>Booste ta croissance et tes revenus sur OnlyFans</p>
+</header>
+
+<section>
+  <h2>À propos de nous</h2>
+  <p style="text-align:center; max-width: 600px; margin: auto;">
+    NovaFans est une agence spécialisée dans l'accompagnement des créateurs et créatrices sur OnlyFans. Notre mission est simple : t’aider à croître, maximiser tes revenus, et te libérer du temps.
+  </p>
+</section>
+
+<section>
+  <h2>Nos offres</h2>
+  <div class="services">
+    <div class="card">
+      <h3>Gestion de contenu</h3>
+      <p>On s’occupe de publier et organiser ton contenu de manière optimale.</p>
+    </div>
+    <div class="card">
+      <h3>Réponses aux abonnés 24/7</h3>
+      <p>Notre équipe gère tes messages pour garder tes fans engagés, jour et nuit.</p>
+    </div>
+    <div class="card">
+      <h3>Création photo/vidéo</h3>
+      <p>Contenu de qualité professionnelle pour te démarquer sur la plateforme.</p>
+    </div>
+    <div class="card">
+      <h3>Analyse des performances</h3>
+      <p>Rapports réguliers et conseils pour améliorer ton revenu.</p>
+    </div>
+    <div class="card">
+      <h3>Croissance Instagram/Twitter</h3>
+      <p>On booste ta visibilité sur les réseaux pour attirer plus d’abonnés.</p>
+    </div>
+  </div>
+</section>
+
+<section class="contact">
+  <h2>Contact</h2>
+  <p>Tu veux collaborer avec nous ? Écris-nous à :</p>
+  <p><a class="email" href="mailto:gerare476@gmail.com">gerare476@gmail.com</a></p>
+</section>
+
+<footer>
+  &copy; 2025 NovaFans – Tous droits réservés.
+</footer>
+
+</body>
+</html>
